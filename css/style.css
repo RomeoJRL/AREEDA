@@ -666,13 +666,10 @@ section {
 }
 
 .footer .box-container .box .links {
-  font-size: 1.5rem;
+  font-size: 1.7rem;
   display: block;
   color: #aaa;
   padding: 1rem 0;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
 }
 
 .footer .box-container .box .links:hover {
